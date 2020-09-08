@@ -8,4 +8,4 @@ _Proyecto Final_
 ### _Edgar Miguel Rodríguez García_
 ### _Emirt Lorenzo	Adams Saenz_
 ### _Javier Ramírez Pinilla_
-### _Jesus	Ropero Barbosa_
+### _Jesus	Ropero Barbosa_ (jesus)
