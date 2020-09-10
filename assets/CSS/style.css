@@ -2,7 +2,6 @@
     position: sticky;
     top: 0;
     z-index: 1071;
-    
 }
 
 .fondo {
@@ -15,14 +14,14 @@
 }
 
 .collapse > ul > li > a {
-    color: wheat;
+    color: #eeeeee;
     font-size: 1.5rem;
     font-weight: 400;
 }
 
 .dropdown-menu > a {
     background-color: #222831;
-    color: wheat;
+    color: #eeeeee;
     font-size: 1.5rem;
     font-weight: 400;
 }
@@ -35,16 +34,16 @@
     background: #eeeeee;
     font-size: 1.5rem;
     font-weight: 400;
-    color: wheat;
-    border: wheat solid 1px;
+    color: #eeeeee;
+    border: #eeeeee solid 1px;
 }
 
 .form-inline > button {
     background-color: #222831;
     font-size: 1.5rem;
     font-weight: 400;
-    color: wheat;
-    border: wheat solid 1px;
+    color: #eeeeee;
+    border: #eeeeee solid 1px;
 }
 
 .form-inline > button:hover {
@@ -53,23 +52,22 @@
     border: #222831 solid 1px;
 }
 
-.page-footer > div > a {
-    color: wheat;
+.page-footer > div > div > div > a {
+    color: #eeeeee;
 }
 
-.page-footer div > a:hover {
-    color: #eeeeee;
+.page-footer div > div > div > a:hover {
+    color: #393E46;
 }
 
 .panel-footer {
     background-color: #222831;
     font-size: 1.5rem;
     font-weight: 400;
-    color: wheat;
-  }
+    color: #eeeeee;
+}
 
 .redes {
       height: 50px;
       width: 50px;
-      border-radius: 50%;
-  }
+}
