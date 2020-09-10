@@ -96,3 +96,7 @@ body{
     height: 310px;
 }
 
+.btn-primary{
+    background: #393E46 !important;
+    border-color: #32E0C4 !important;
+}
