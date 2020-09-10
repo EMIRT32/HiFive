@@ -22,13 +22,16 @@ body{
 }
 
 .colorBotones{
-    background: linear-gradient(to right bottom,#222831 -3%,#32E0C4 111%);
-    font-weight: 300;
-    color: white;
+    background: #393E46 !important;
+    border-color: #32E0C4 !important;
 }
 
 .textoLink{
     font-weight: 300;
     color:#222831;
 
+}
+
+.todoFondo{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
 }
