@@ -75,7 +75,7 @@
 
 body{
     font-family: 'Overpass', sans-serif;
-    color: black;
+    color: wheat;
     
 }
 
@@ -98,5 +98,12 @@ body{
 
 .btn-primary{
     background: #393E46 !important;
-    border-color: #32E0C4 !important;
+    border-color: #EEEE !important;
+}
+.color{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
+}
+
+.border-light{
+    border-color: wheat !important;
 }
