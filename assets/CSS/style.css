@@ -1,3 +1,78 @@
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1071;
+}
+
+.fondo {
+    background-color: #222831;
+}
+
+.menuFondo{
+    background-color: #eeeeee !important;
+    border: #eeeeee solid 1px;
+}
+
+.collapse > ul > li > a {
+    color: #eeeeee;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.dropdown-menu > a {
+    background-color: #222831;
+    color: #eeeeee;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.otro > div {
+    background-color: #222831;
+}
+
+.form-inline > input {
+    background: #eeeeee;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #eeeeee;
+    border: #eeeeee solid 1px;
+}
+
+.form-inline > button {
+    background-color: #222831;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #eeeeee;
+    border: #eeeeee solid 1px;
+}
+
+.form-inline > button:hover {
+    background-color: #eeeeee;
+    color: #222831;
+    border: #222831 solid 1px;
+}
+
+.page-footer > div > div > div > a {
+    color: #eeeeee;
+}
+
+.page-footer div > div > div > a:hover {
+    color: #393E46;
+}
+
+.panel-footer {
+    background-color: #222831;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #eeeeee;
+}
+
+.redes {
+      height: 50px;
+      width: 50px;
+}
+
 body{
     font-family: 'Overpass', sans-serif;
     color: black;
@@ -20,3 +95,4 @@ body{
     width:240px ;
     height: 310px;
 }
+
