@@ -1,3 +1,4 @@
+
 .header {
     position: sticky;
     top: 0;
@@ -71,3 +72,27 @@
       height: 50px;
       width: 50px;
 }
+
+body{
+    font-family: 'Overpass', sans-serif;
+    color: black;
+    
+}
+
+.cajitaVideos{
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.cajitaProductos{
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.tamaImg{
+    width:240px ;
+    height: 310px;
+}
+
