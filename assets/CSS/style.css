@@ -107,3 +107,10 @@ body{
 .border-light{
     border-color: wheat !important;
 }
+.colorC{
+    color: wheat !important;
+}
+
+.colorF{
+    color: #393E46 !important;
+}
