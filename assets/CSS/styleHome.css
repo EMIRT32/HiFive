@@ -31,3 +31,7 @@ body{
     color:#222831;
 
 }
+
+.todoFondo{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
+}
